@@ -14,7 +14,7 @@ It does not move when there is a object infront of the remote controlled car.
    1)Python<br/>
    2)OpenCv library<br/>
 # Training
-  To train your own dataset for OpenCv just rent a server and train it, Since it will take ages to train on your local machine. Datasets can be obtained through [ImageNet](http://image-net.org/index).<br/> Although I would recommend TensorFlow instead of OpenCV for training with good accuracy and detection.
+  To train your own dataset for OpenCv just rent a server and train it, since it will take ages to train on your local machine. Datasets can be obtained through [ImageNet](http://image-net.org/index).<br/> Although I would recommend TensorFlow instead of OpenCV for training with good accuracy and detection.
   
 # Screenshots
 ![trafficlight](https://user-images.githubusercontent.com/12658863/37247759-5f19c3a4-2475-11e8-92d4-6c9a4e2a640d.JPG) ![stopsign](https://user-images.githubusercontent.com/12658863/37247765-79ee5ce4-2475-11e8-96f2-88cfdc45348a.JPG) ![code](https://user-images.githubusercontent.com/12658863/37247771-934c2f72-2475-11e8-977c-d1b9dd06e912.JPG)
