@@ -9,7 +9,7 @@ It does not move when there is a object infront of the remote controlled car.
    1)Raspberry Pi<br/>
    2)Ultra Sonic Sensor<br/>
    3)Camera Module<br/>
-   4)Remote Controlled Car (The cars remote should be insulated with wires on the buttons so that the pi could control the car.<br/>
+   4)Remote Controlled Car (The cars remote should be insulated with wires on the buttons so that the pi could control the car.)<br/>
   Software:<br/>
    1)Python<br/>
    2)OpenCv library<br/>
