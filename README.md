@@ -18,3 +18,10 @@ It does not move when there is a object infront of the remote controlled car.
   
 # Screenshots
 ![trafficlight](https://user-images.githubusercontent.com/12658863/37247759-5f19c3a4-2475-11e8-92d4-6c9a4e2a640d.JPG) ![stopsign](https://user-images.githubusercontent.com/12658863/37247765-79ee5ce4-2475-11e8-96f2-88cfdc45348a.JPG) ![code](https://user-images.githubusercontent.com/12658863/37247771-934c2f72-2475-11e8-977c-d1b9dd06e912.JPG)
+# Credits to team mates:
+
+1)Akhil B
+
+2)N Dheeraj Reddy
+
+3)Veneeth Raj
